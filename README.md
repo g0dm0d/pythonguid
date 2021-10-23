@@ -650,7 +650,7 @@ c = int(input())
 list = [a, b, c]
 list.sort()
 for i in list:
-    print(i, end='')
+	print(i, end='')
 ```
 </details>
 
